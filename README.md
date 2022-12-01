@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in based in Madrid, Spain
 * ✉️  You can contact me at [ortiznavajomonica@gmail.com](mailto:ortiznavajomonica@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning VueJs & Python
 
 ### Skills
 
